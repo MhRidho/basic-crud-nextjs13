@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "title": "laptop lenovo",
+      "price": "5000000",
+      "id": 4
+    },
+    {
+      "title": "komputer asus",
+      "price": "20000000",
+      "id": 6
+    },
+    {
+      "title": "CPU",
+      "price": "2000000",
+      "id": 7
+    },
+    {
+      "title": "keyboard",
+      "price": "500000",
+      "id": 8
+    },
+    {
+      "title": "monitor",
+      "price": "2500000",
+      "id": 9
+    },
+    {
+      "title": "procesor",
+      "price": "6500000",
+      "id": 10
+    },
+    {
+      "title": "mouse",
+      "price": "500000",
+      "id": 11
+    },
+    {
+      "title": "LCD",
+      "price": "350000",
+      "id": 12
+    }
+  ]
+}
